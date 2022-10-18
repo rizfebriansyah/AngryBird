@@ -21,3 +21,5 @@ Screen when the red bird is released to destroy the tower of boxes:
 Screen when more birds are released with the help of the propeller:
 
 <img width="998" alt="angrybird2" src="https://user-images.githubusercontent.com/88428142/196087391-adff0a6f-21f5-4588-9f10-cf58843640ba.png">
+
+To run the application, please download Brackets. Download and drag all the files and peform a live preview.
